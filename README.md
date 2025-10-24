@@ -104,5 +104,5 @@ Dataset used: **Telco Customer Churn Dataset (Kaggle / IBM Sample)**
 ## 👤 Author
 
 **Yahya Bhara**
-Data Science Student | Machine Learning & Analytics Enthusiast
-[GitHub Profile](#) | [LinkedIn Profile](#)
+Computer Science junior at Texas State University | Machine Learning & Analytics Enthusiast
+yahyabhara1@gmail.com
